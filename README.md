@@ -1,14 +1,16 @@
 # Jose-contreras-Tarea-4---Algoritmos-de-Aprendizaje-No-Supervisado-UNAD
 
-**Dataset k-means e hierarchical clustering - Mall Customer **
-Segmentation Data: 
+Dataset k-means e hierarchical clustering - Mall Customer Segmentation Data: 
 https://www.kaggle.com/vjchoudhary7/customer-segmentation
 tutorial-in-python  
+
 Este dataset contiene información de clientes de un mall. Las variables 
 incluyen género, ingreso, puntaje de gasto, etc.  
+
 • Con el dataset anterior diseñar los modelos de Clustering 
 (agrupación): K-means e hierarchical clustering. Para cada 
 algoritmo realizar los siguientes pasos: 
+
 1. Realizar un análisis exploratorio de los datos para identificar 
 relaciones entre variables, valores atípicos, tendencias, etc.  
 
